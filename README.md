@@ -14,8 +14,8 @@ Before running the backend locally, make sure you have the following installed:
 
 ## 🚀 Project Setup
 
-### 1️⃣ Clone the repository
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/rudani-jugal/reminder-backend.git
 cd reminder-backend
 
@@ -31,5 +31,4 @@ npm start
 The server will start at:
 👉 http://localhost:5000
 
-
-
+🚨 Note: If you don’t see your reminder emails in your Primary inbox, please check your Spam folder.
